@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "key_name" { 
     description = " SSH keys to connect to ec2 instance" 
-    default     =  "AKIAVAGU334OHNLX6HW5" 
+    default     =  "Lakshmy_aws_Key" 
 }
 
 variable "instance_type" { 
